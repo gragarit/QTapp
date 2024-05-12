@@ -1,0 +1,10 @@
+-I
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qml
+-I
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qml
+-I
+C:/Qt/6.8.0/mingw_64/./qml
+--resource
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/.rcc/qmake_QtQuick_Studio_Application.qrc
+--module
+QtQuick.Studio.Application

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/nienazwane/">
+    <file alias="Constants.qml">C:/Users/Daamian/Documents/nienazwane/imports/nienazwane/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/Daamian/Documents/nienazwane/imports/nienazwane/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/Daamian/Documents/nienazwane/imports/nienazwane/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/Daamian/Documents/nienazwane/imports/nienazwane/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

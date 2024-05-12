@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/nienazwane/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "nienazwane_tooling::@88ad6c9aedbb7c672013"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "nienazwane_autogen_timestamp_deps::@88ad6c9aedbb7c672013",
+	"isGeneratorProvided" : true,
+	"name" : "nienazwane_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/nienazwane",
+		"source" : "imports/nienazwane"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

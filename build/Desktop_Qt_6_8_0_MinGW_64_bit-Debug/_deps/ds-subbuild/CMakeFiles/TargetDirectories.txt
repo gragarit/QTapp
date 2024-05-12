@@ -1,0 +1,3 @@
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

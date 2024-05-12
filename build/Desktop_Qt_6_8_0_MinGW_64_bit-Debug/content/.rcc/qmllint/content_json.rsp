@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qml
+-I
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qml
+-I
+C:/Qt/6.8.0/mingw_64/./qml
+--resource
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/content/.rcc/qmake_content.qrc
+--resource
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/content/.rcc/content_raw_qml_0.qrc
+C:/Users/Daamian/Documents/nienazwane/content/App.qml
+C:/Users/Daamian/Documents/nienazwane/content/Screen01.ui.qml
+--json
+C:/Users/Daamian/Documents/nienazwane/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/content_qmllint.json
