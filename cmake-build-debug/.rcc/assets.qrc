@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/img">
+    <file alias="content/icons/logo_wht.png">C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/content/icons/logo_wht.png</file>
+    <file alias="content/icons/Vector.png">C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/content/icons/Vector.png</file>
+    <file alias="content/icons/Minus.png">C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/content/icons/Minus.png</file>
+  </qresource>
+</RCC>
+

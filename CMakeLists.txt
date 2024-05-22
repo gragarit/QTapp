@@ -13,7 +13,20 @@ if (Qt6_VERSION VERSION_GREATER_EQUAL 6.3)
     qt_standard_project_setup()
 endif()
 
-qt_add_executable(nienazwaneApp src/main.cpp)
+qt_add_executable(nienazwaneApp
+    src/main.cpp
+    multi.cpp
+    resources.qrc
+)
+
+qt_add_resources(nienazwaneApp "assets"
+    PREFIX "/img"
+    FILES
+        "content/icons/logo_wht.png"
+        "content/icons/Vector.png"
+        "content/icons/Minus.png"
+
+)
 
 qt_add_resources(nienazwaneApp "configuration"
     PREFIX "/"

@@ -1,0 +1,16 @@
+-rootPath
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane
+-cmake-output
+-output-file
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/.qt_plugins/Qt6_QmlPlugins_Imports_nienazwaneApp.cmake
+-importPath
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml/Main
+-importPath
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-importPath
+C:/Qt/6.8.0/mingw_64/./qml
+-qrcFiles
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/.rcc/assets.qrc
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/.rcc/configuration.qrc
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/.rcc/qmake_Main.qrc
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/.rcc/nienazwaneApp_raw_qml_0.qrc

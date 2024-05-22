@@ -1,0 +1,12 @@
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Qt/6.8.0/mingw_64/./qml
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/imports/nienazwane/.rcc/qmake_nienazwane.qrc
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/imports/nienazwane/.rcc/nienazwane_raw_qml_0.qrc
+--module
+nienazwane

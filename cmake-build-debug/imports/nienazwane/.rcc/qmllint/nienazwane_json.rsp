@@ -1,0 +1,17 @@
+--bare
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Qt/6.8.0/mingw_64/./qml
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/imports/nienazwane/.rcc/qmake_nienazwane.qrc
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/imports/nienazwane/.rcc/nienazwane_raw_qml_0.qrc
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/imports/nienazwane/Constants.qml
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/imports/nienazwane/DirectoryFontLoader.qml
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/imports/nienazwane/EventListModel.qml
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/imports/nienazwane/EventListSimulator.qml
+--json
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/nienazwane_qmllint.json

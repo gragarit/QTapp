@@ -1,0 +1,12 @@
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml
+-I
+C:/Qt/6.8.0/mingw_64/./qml
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/_deps/ds-build/src/imports/logichelper/.rcc/qmake_QtQuick_Studio_LogicHelper.qrc
+--resource
+C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/_deps/ds-build/src/imports/logichelper/.rcc/QuickStudioLogicHelper_raw_qml_0.qrc
+--module
+QtQuick.Studio.LogicHelper

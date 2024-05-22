@@ -1,0 +1,26 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Multi",
+                "object": true,
+                "qualifiedClassName": "Multi",
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "newBroken",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "multi.h",
+        "outputRevision": 68
+    }
+]

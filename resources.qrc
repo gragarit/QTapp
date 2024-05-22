@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>content/icons/logo_wht.png</file>
+        <file>content/icons/Vector.png</file>
+        <file>content/icons/Minus.png</file>
+    </qresource>
+</RCC>

@@ -4,10 +4,11 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QIcon>
-
+#include "multi.h"
 #include "app_environment.h"
 #include "import_qml_components_plugins.h"
 #include "import_qml_plugins.h"
+#include <QProcess>
 
 int main(int argc, char *argv[])
 {
@@ -15,9 +16,12 @@ int main(int argc, char *argv[])
 
     QGuiApplication app(argc, argv);
 
+    qmlRegisterType<Multi>("Custom", 1, 0, "Multi");
+
     app.setWindowIcon(QIcon("C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/myico.ico"));
 
     QQmlApplicationEngine engine;
+
     const QUrl url(u"qrc:/qt/qml/Main/main.qml"_qs);
     QObject::connect(
         &engine,

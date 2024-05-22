@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtQuick/Studio/Utils">C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug/qml/QtQuick/Studio/Utils</file>
+
+  </qresource>
+</RCC>
