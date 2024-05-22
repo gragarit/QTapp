@@ -1,10 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Daamian\Desktop\MultiBroken_Source\qt\nienazwane -B C:\Users\Daamian\Desktop\MultiBroken_Source\qt\nienazwane\cmake-build-debug
-CMake Warning (dev) at CMakeLists.txt:24:
-  Syntax Warning in cmake code at column 39
-
-  Argument not separated from preceding token by whitespace.
-This warning is for project developers.  Use -Wno-dev to suppress it.
-
 -- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
 -- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
 Building designer components.
@@ -23,16 +17,6 @@ Call Stack (most recent call first):
   cmake-build-debug/_deps/ds-src/src/imports/utils/CMakeLists.txt:6 (qt6_add_qml_module)
 This warning is for project developers.  Use -Wno-dev to suppress it.
 
--- Configuring done (4.8s)
-CMake Error at C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:2155 (target_sources):
-  Cannot find source file:
-
-    C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/,
-Call Stack (most recent call first):
-  C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:797 (_qt_internal_expose_deferred_files_to_ide)
-  C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:772:EVAL:1 (qt6_finalize_target)
-  CMakeLists.txt:DEFERRED
-
-
--- Generating done (0.3s)
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Configuring done (5.5s)
+-- Generating done (0.7s)
+-- Build files have been written to: C:/Users/Daamian/Desktop/MultiBroken_Source/qt/nienazwane/cmake-build-debug

@@ -17,6 +17,7 @@ qt_add_executable(nienazwaneApp
     src/main.cpp
     multi.cpp
     resources.qrc
+    dodawanie_srod.qml
 )
 
 qt_add_resources(nienazwaneApp "assets"
